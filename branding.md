@@ -41,6 +41,13 @@ Based on reviewed posts and articles:
 - **Founder DNA in a corporate role** — always thinking like an owner, even as a senior employee.
 - **Giving back** — mentors ex-combat soldiers transitioning into tech; volunteered at monday.com to host and speak to a cohort. Authentic community involvement, not performative.
 
+### Best Performing Content Style (based on Anthropic post)
+- Hook with a bold data point or counter-intuitive claim
+- Numbered frameworks ("3 things engineering leaders should take from this")
+- Anchors abstract ideas to concrete monday.com reality — not just theory
+- Ends with an open question to drive engagement
+- This format is Or's strongest — use it as the template for AI/agents content
+
 ### What's Missing (gaps to fill for thought leadership)
 - Almost no content yet on **AI/agents** — this is the highest-opportunity gap given Or's actual work.
 - No content on **A11y AI** or **AI adoption** — both are differentiated, concrete, publishable stories.
