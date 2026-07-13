@@ -14,6 +14,7 @@ Load this file first. Pull referenced files only when the context is relevant.
 | [people.md](people.md) | Close collaborators, roles, team structure | Any work involving teammates or stakeholders |
 | [schedule.md](schedule.md) | Work hours, timezone, WFH days, protected windows | Scheduling, reminders, time-sensitive tasks |
 | [goals.md](goals.md) | Personal ambitions: AI updates, thought leadership, branding | Proactive suggestions, content, opportunities |
+| [branding.md](branding.md) | Public presence, platforms, content topics, branding goals | Personal branding work, content creation, speaking/podcast opportunities |
 
 ## Notes for AI Assistants
 
