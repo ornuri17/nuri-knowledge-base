@@ -14,6 +14,10 @@
 - **Hanan** — Developer. Joined post-hackathon; co-leads development with Rivka.
 
 ## Management & Mentorship
-- **Nitzan** — Or's direct manager. Director of R&D.
+- **Nitzan** — Or's direct manager. Director of R&D. High-priority: Or acts fast on requests from Nitzan.
 - **Daniel Baruch** — Or's mentor. Staff Engineer.
-- **Sergey** — VP R&D.
+- **Sergey** — VP R&D. High-priority: same as Nitzan.
+
+## Additional monday chat team
+- **Gal Orlanczik** — Tech Lead, monday chat.
+- **Shai** — Developer, monday chat.

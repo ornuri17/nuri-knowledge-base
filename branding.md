@@ -67,8 +67,18 @@ This "practitioner who ships" angle is the strongest differentiator. Always anch
 - "Why agents need to be first-class participants, not integrations" — monday chat architectural philosophy.
 - Conference/podcast angle: the intersection of enterprise SaaS + agentic AI + accessibility is extremely niche and differentiated.
 
+## Speaking Aspirations
+- Wants to speak internationally, not just in Israel.
+- Reference benchmark: Shai Mishali (former monday.com colleague who speaks globally) — that's the level of public presence Or is aiming for.
+- No specific target conference yet — open to suggestions.
+
+## Social Media
+- LinkedIn: active, publishes in English.
+- X: has an account but does not post currently. Potential untapped channel.
+
 ## Notes for Ellie
-- Proactively surface relevant CFPs (call for papers) and podcast opportunities matching Or's topics.
+- Proactively surface CFPs (call for papers) for international conferences matching Or's topics: AI, agentic systems, tech leadership, enterprise engineering.
 - When a major AI trend breaks, draft a content angle for Or within 24h.
 - Or writes clean, structured English — match that register when drafting content for him.
 - Do not suggest content that contradicts his "practitioner, not commentator" voice — always anchor to real work.
+- X is an untapped channel — when the timing is right, suggest a cross-posting strategy.
