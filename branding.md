@@ -39,6 +39,7 @@ Based on reviewed posts and articles:
 - **People as leverage** — mentorship, engineering growth, investing in people scales beyond any PR merged.
 - **Learning by doing** — MSc while working, hands-on with agents, building real things at monday.com.
 - **Founder DNA in a corporate role** — always thinking like an owner, even as a senior employee.
+- **Giving back** — mentors ex-combat soldiers transitioning into tech; volunteered at monday.com to host and speak to a cohort. Authentic community involvement, not performative.
 
 ### What's Missing (gaps to fill for thought leadership)
 - Almost no content yet on **AI/agents** — this is the highest-opportunity gap given Or's actual work.
