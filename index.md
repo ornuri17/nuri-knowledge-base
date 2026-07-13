@@ -11,7 +11,9 @@ Load this file first. Pull referenced files only when the context is relevant.
 | [family.md](family.md) | Family members, important dates | Personal scheduling, life context |
 | [preferences.md](preferences.md) | Communication style, diet, aesthetics, hard rules | Generating output, scheduling, recommendations |
 | [projects.md](projects.md) | Active projects, status, architectural direction | Engineering work, task prioritization |
-| [schedule.md](schedule.md) | Work hours, timezone, protected windows, daily rhythm | Scheduling, reminders, time-sensitive tasks |
+| [people.md](people.md) | Close collaborators, roles, team structure | Any work involving teammates or stakeholders |
+| [schedule.md](schedule.md) | Work hours, timezone, WFH days, protected windows | Scheduling, reminders, time-sensitive tasks |
+| [goals.md](goals.md) | Personal ambitions: AI updates, thought leadership, branding | Proactive suggestions, content, opportunities |
 
 ## Notes for AI Assistants
 
