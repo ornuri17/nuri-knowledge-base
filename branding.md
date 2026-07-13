@@ -39,6 +39,7 @@ Based on reviewed posts and articles:
 - **People as leverage** — mentorship, engineering growth, investing in people scales beyond any PR merged.
 - **Learning by doing** — MSc while working, hands-on with agents, building real things at monday.com.
 - **Founder DNA in a corporate role** — always thinking like an owner, even as a senior employee.
+- **Architects of Intent** — Or's coined framing: engineers should stop being builders and become architects of intent. AI handles the repetitive lifting; humans own mentorship, vision, and high-stakes decisions. This is a signature concept worth owning and repeating across content.
 - **Giving back** — mentors ex-combat soldiers transitioning into tech; volunteered at monday.com to host and speak to a cohort. Authentic community involvement, not performative.
 
 ### Content Pattern: Build → Write
