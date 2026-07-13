@@ -69,8 +69,16 @@ This "practitioner who ships" angle is the strongest differentiator. Always anch
 
 ## Speaking Aspirations
 - Wants to speak internationally, not just in Israel.
-- Reference benchmark: Shai Mishali (former monday.com colleague who speaks globally) — that's the level of public presence Or is aiming for.
+- Reference benchmark: Shai Mishali (former monday.com colleague) — highly positioned in his industry, speaks globally. Or wants that level of positioning in the AI/engineering space (different domain).
 - No specific target conference yet — open to suggestions.
+
+## Talk-Ready Topics (can present 30 min with no prep)
+- Embedding AI in organizations
+- Using AI for personal productivity
+- Embedding AI in small and medium businesses
+- Software development in the AI era
+- Hi-tech entrepreneurship
+- Bootstrapping
 
 ## Social Media
 - LinkedIn: active, publishes in English.

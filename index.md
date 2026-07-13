@@ -17,6 +17,7 @@ Load this file first. Pull referenced files only when the context is relevant.
 | [branding.md](branding.md) | Public presence, platforms, content topics, branding goals | Personal branding work, content creation, speaking/podcast opportunities |
 | [a11y-ai-workflow.md](a11y-ai-workflow.md) | A11y AI pipeline architecture, agents, flow, human touchpoints | Writing about A11y AI, technical deep-dives, conference content |
 | [working-style.md](working-style.md) | Decision making, energy patterns, time drains, delegation style | Scheduling, prioritization, productivity suggestions |
+| [personal.md](personal.md) | Home, family, finances, food, lifestyle, learning style | Personal recommendations, purchases, restaurants, financial context |
 
 ## Notes for AI Assistants
 
