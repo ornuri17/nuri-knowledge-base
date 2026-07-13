@@ -19,6 +19,12 @@
 - **Team:** Or, Roni (PM), Rivka (developer), Hanan (co-leads development with Rivka)
 - **Status:** Active, post-hackathon expansion.
 
+## GradeByAI
+- **What:** A public tool that measures how "legible" a website is to LLMs (Claude, Gemini, ChatGPT, Perplexity). Scores GEO (Generative Engine Optimization) readiness.
+- **URL:** https://GradeByAI.com
+- **Status:** Public, live. Or built and launched this as a side project.
+- **Origin:** Built to validate the hypothesis that most websites are invisible to AI discovery layers.
+
 ## AI Adoption Agent (internal name TBD)
 - **What:** An agent that interviews a dev team, understands their workflows and context, reviews their codebase, and at the end of the interview — automatically spins up a full agentic team tailored to that team. Also creates a new monday.com Workspace with boards for their processes.
 - **Goal:** Embed AI into dev teams at monday.com that currently have no agentic tooling in their daily workflows.

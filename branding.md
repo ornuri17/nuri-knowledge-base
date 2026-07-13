@@ -41,6 +41,12 @@ Based on reviewed posts and articles:
 - **Founder DNA in a corporate role** — always thinking like an owner, even as a senior employee.
 - **Giving back** — mentors ex-combat soldiers transitioning into tech; volunteered at monday.com to host and speak to a cohort. Authentic community involvement, not performative.
 
+### Content Pattern: Build → Write
+Or doesn't just comment on trends — he builds tools to validate his hypotheses, then writes about the data.
+- GradeByAI.com (GEO/AI discoverability scoring tool) — built it, tested dozens of sites, then published findings
+- A11y AI — built a team of agents, then positioned it publicly
+This "practitioner who ships" angle is the strongest differentiator. Always anchor content to something Or actually built or measured.
+
 ### Best Performing Content Style (based on Anthropic post)
 - Hook with a bold data point or counter-intuitive claim
 - Numbered frameworks ("3 things engineering leaders should take from this")
