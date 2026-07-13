@@ -32,4 +32,10 @@ Agents don't communicate directly. **Monday.com is the shared communication laye
 Paladin must score Risk = 0 AND Confidence = 10 for autonomous merge. Anything else escalates.
 
 ## Origin
-Started as an internal hackathon at monday.com. Or, Roni (PM), and Rivka (developer) won 1st place. Expanded post-hackathon; Hanan joined to co-lead development with Rivka.
+Started as an internal hackathon at monday.com. Or, Roni (PM), and Rivka (developer) won 1st place. Expanded post-hackathon; Hanan joined to co-lead development with Rivka. Project has been running for ~3 months post-hackathon.
+
+## Results (as of 2026-07-13)
+- ~200 PRs opened
+- 85% of violations result in a PR
+- 60% of PRs auto-merged
+- Average time from audit file to merged fix: was 5 months, now hours
