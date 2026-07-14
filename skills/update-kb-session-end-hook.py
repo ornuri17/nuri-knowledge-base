@@ -85,7 +85,7 @@ def main():
         print(json.dumps({"suppressOutput": True}))
         return
 
-    plugin_dir = os.path.join(home, '.claude', 'plugins', 'local', 'update-kb')
+    plugin_dir = os.path.join(home, '.claude', 'plugins', 'local', 'update-nuri-kb')
     if not os.path.isdir(plugin_dir):
         print(json.dumps({"suppressOutput": True}))
         return
